@@ -3,7 +3,7 @@
 using namespace std;
 int main
   {
-      cout<<"temp "<<endl;
+  cout<<"temp2 "<<endl;
   return 0;
   }
   
