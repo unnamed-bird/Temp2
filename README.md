@@ -6,4 +6,5 @@ int main
   cout<<"temp2 "<<endl;
   return 0;
   }
-  
+//temp2---insert
+
